@@ -1,5 +1,5 @@
 
-:warning: ``` Placeholder Repo : Code has been moved.```
+:warning: ``` Placeholder Repo: Code has been moved.```
 
 # str-similar
 String Similarity Library including a range of commonly used similarity algorithms including edit-based, token-based, sequence-based and phonetic algorithms.
